@@ -1,0 +1,18 @@
+1
+Hair Cut
+20
+2
+Beard Trim
+15
+3
+Facial
+35
+4
+Trimmer
+14
+5
+Face Massage
+15
+6
+hair styling
+5
